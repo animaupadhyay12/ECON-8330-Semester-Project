@@ -1,0 +1,8 @@
+Here are the results I got from the MW Test using survey results that were 75% complete. 
+
+The only p-value we have that is < 0.05 is for Q 5, which was "Is English your first language?" 
+
+If we consider approaching significance as anything with a p value between 0.05 and 0.1, we have 3 questions from the surveys that meet this criteria.  They are 
+- Question 22, "How many times have you been to the wellness or recreation center in the past 12 months?" with a p-value of 0.055678
+-The FinLit_total, with a p-value of 0.063532
+-Question 25 , "How many times have you attended any other UNO or campus based event in the past 12 months?" with a p-value of 0.070926
